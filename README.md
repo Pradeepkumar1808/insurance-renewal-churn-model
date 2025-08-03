@@ -16,10 +16,14 @@ This project builds a binary classification model using LightGBM and XGBoost to 
 - ROC-AUC score
 - Confusion Matrix
 
-## 📊 Sample Output
-![Output Preview](preview.png)
-
 ## 📦 Installation
 
 ```bash
 pip install -r requirements.txt
+```
+
+## 🚀 Run
+Open the notebook and run all cells:
+```bash
+jupyter notebook Rank_1_Karan_Junega.ipynb
+```
